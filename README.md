@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&pause=1000&color=2114FF&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Ramil!+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+![csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
+![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 **RamilZhim/RamilZhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
